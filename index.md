@@ -1,5 +1,5 @@
 ##   A股垃圾股列表
-建立这个页面的目的是为了让各位老铁能够共享、编辑和整理市值风云扒过个A股垃圾股信息，这样老铁们在今后买股票时就可以避开这些垃圾了，也就会被少被割了。如果你也想对这份列表进行编辑请点击[editor on GitHub](https://github.com/hehao9051/TrashStock.github.io/edit/master/index.md)
+建立这个页面的目的是为了让各位老铁能够共享、编辑和整理市值风云扒过个A股垃圾股信息，这样老铁们在今后买股票时就可以避开这些垃圾了，也就会被少被割了。如果你也想对这份列表进行编辑请点击[editor on GitHub](https://github.com/AfterTheDustSettled/TrashStock/edit/master/index.md)
 
 序号  | 公司名称 | 股票代码 | 坑爹事迹
 ----- | -----   | ------   |-----
